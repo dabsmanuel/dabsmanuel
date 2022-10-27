@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dabsmanuel
+- 👀 I’m interested in all things frontend
+- 🌱 I’m currently learning the MERN stack
+- 💞️ I’m looking to collaborate on frontend projects
+- 📫 you can reach me on my email dabsoyibo@gmail.com and on twitter @dabs_manuel
