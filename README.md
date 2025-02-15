@@ -2,4 +2,4 @@
 - 👀 I’m interested in all things frontend
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 you can reach me on my email dabsoyibo@gmail.com and on twitter https://twitter.com/dabs_manuel
+- 📫 you can reach me on my email dabsoyibo@gmail.com and on x at https://x.com/dabs_manuel
